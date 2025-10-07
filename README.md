@@ -1,6 +1,6 @@
 # Machine Learning Bootcamp 🚀
 
-Welcome to my **Machine Learning Bootcamp** repository! This repository serves as a structured learning path to revisit and master **Machine Learning (ML), Deep Learning (DL), and AI Large Language Models (LLMs)** step by step.
+Welcome to my **AB-PRIME-MACHINE-LEARNING** repository! This repository serves as a structured learning path to revisit and master **Machine Learning (ML), Deep Learning (DL), and AI Large Language Models (LLMs)** step by step.
 
 ## 📌 Objectives
 - Refresh fundamental concepts of **Machine Learning** 📊
@@ -54,17 +54,16 @@ Welcome to my **Machine Learning Bootcamp** repository! This repository serves a
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/machine-learning-bootcamp.git
-cd machine-learning-bootcamp
+git clone https://github.com/AbhinavKharde/AB-Prime-Machine-Learning.git
+cd AB-PRIME-MACHINE-LEARNING
 
-# Install dependencies
-pip install -r requirements.txt
+
 ```
 
 ## 📌 Resources & References
-- **Books**: "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" - Aurélien Géron
-- **Courses**: Andrew Ng's ML & DL Specializations (Coursera)
-- **Research Papers**: Attention Is All You Need (Vaswani et al.)
+- **Books**: 
+- **Courses**: APython for Machine Learning & Data Science Masterclass By Jose Portilla
+- **Research Papers**: 
 
 ## 📢 Contributing
 Feel free to fork the repository and contribute! Open PRs for new notebooks, models, or improvements. 🚀
